@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Jupyter notebooks checkpoints (agar use karte ho)
+.ipynb_checkpoints/
+
+# Large datasets (optional)
+*.csv
