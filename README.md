@@ -1,6 +1,6 @@
 # CreditWise Loan System - Supervised ML
 
-## 📌 Problem Statement
+##  Problem Statement
 SecureTrust Bank, a mid-sized financial institution in India, has been relying on manual loan verification. This process is slow, inconsistent, and sometimes biased — leading to:
 - Loss of business when good customers are rejected  
 - Financial risk when high-risk customers are approved  
@@ -9,7 +9,7 @@ To address these challenges, the **CreditWise Loan System** leverages supervised
 
 ---
 
-## 📂 Dataset
+##  Dataset
 Each record represents a loan applicant with attributes covering personal, financial, and credit details. Key features include:
 
 - Applicant Income, Co‑applicant Income, Age, Employment Status  
@@ -21,7 +21,7 @@ Each record represents a loan applicant with attributes covering personal, finan
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 Dependencies are listed in `requirements.txt`. Install them via:
 ```bash
 pip install -r requirements.txt
