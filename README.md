@@ -24,4 +24,4 @@ Each record represents a loan applicant with attributes covering personal, finan
 ##  Requirements
 Dependencies are listed in `requirements.txt`. Install them via:
 ```bash
-pip install -r requirements.txt
+
