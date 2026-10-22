@@ -19,7 +19,7 @@ Each record represents a loan applicant with attributes covering personal, finan
 - Property Area, Education Level, Gender, Employer Category  
 - **Target Variable:** Loan_Approved (1 = Approved, 0 = Rejected)
 
-------
+--------
 
 ##  Requirements
 Dependencies are listed in `requirements.txt`. Install them via:
