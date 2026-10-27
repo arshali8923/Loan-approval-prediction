@@ -1,4 +1,4 @@
-# CreditWise Loan System -8- Supervised ML
+# CreditWise Loan System -- Supervised ML
 
 ##  Problem Statement
 SecureTrust Bank, a mid-sized financial institution in India, has been relying on manual loan verification. This process is slow, inconsistent, and sometimes biased — leading to:
